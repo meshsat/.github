@@ -20,15 +20,14 @@ for the metered ones when nothing free is left.
 
 | | What it is |
 |---|---|
-| **MeshSat Bridge** | The gateway. Go, runs as a Docker container on a Raspberry Pi. Meshtastic LoRa, Iridium satellite, cellular SMS, APRS/AX.25, ZigBee, BLE, TAK and MQTT, routed over Reticulum. |
-| **MeshSat Android** | Standalone mobile gateway. Kotlin and Compose, with BLE mesh, SPP Iridium and native SMS. |
-| **MeshSat Hub** | Multi-tenant fleet management for a fleet of bridges. Currently a private beta with no public sign-up. |
-| **meshsat-website** | meshsat.net, the documentation site, and the install script. |
+| **[MeshSat Bridge](https://github.com/meshsat/meshsat)** | The gateway. Go, runs as a Docker container on a Raspberry Pi. Meshtastic LoRa, Iridium satellite, cellular SMS, APRS/AX.25, ZigBee, BLE, TAK and MQTT, routed over Reticulum. |
+| **[MeshSat Android](https://github.com/meshsat/meshsat-android)** | Standalone mobile gateway. Kotlin and Compose, with BLE mesh, SPP Iridium and native SMS. |
+| **[MeshSat Hub](https://github.com/meshsat/meshsat-hub)** | Multi-tenant fleet management for a fleet of bridges. Currently a private beta with no public sign-up. |
+| **[meshsat-website](https://github.com/meshsat/meshsat-website)** | meshsat.net, the documentation site, and the install script. |
 
-**The code currently lives under [`cubeos-app`](https://github.com/cubeos-app) and is moving here
-during September 2026.** MeshSat began inside the CubeOS project and has outgrown it. Until the
-transfer completes, [`cubeos-app/meshsat`](https://github.com/cubeos-app/meshsat) is the place to
-start.
+MeshSat began inside the [CubeOS](https://github.com/cubeos-app) project and has outgrown it. The
+repositories moved here in August 2026; old `cubeos-app` links redirect.
+[`meshsat/meshsat`](https://github.com/meshsat/meshsat) is the place to start.
 
 ## Get started
 
