@@ -39,7 +39,7 @@ Then open `http://<your-ip>:6050`.
 
 ## Talk to us
 
-- **Matrix:** [`#meshsat:matrix.nuclearlighters.net`](https://matrix.to/#/%23meshsat%3Amatrix.nuclearlighters.net)
+- **Matrix:** [`#meshsat:matrix.nuclearlighters.net`](https://matrix.to/#/#meshsat:matrix.nuclearlighters.net)
 - **Website:** [meshsat.net](https://meshsat.net) and [docs.meshsat.net](https://docs.meshsat.net)
 - **Elsewhere:** [X](https://x.com/meshsat) and [LinkedIn](https://www.linkedin.com/company/meshsat/)
 - **Email:** info@meshsat.org
