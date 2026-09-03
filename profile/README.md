@@ -24,6 +24,7 @@ for the metered ones when nothing free is left.
 | **[MeshSat Android](https://github.com/meshsat/meshsat-android)** | Standalone mobile gateway. Kotlin and Compose, with BLE mesh, SPP Iridium and native SMS. |
 | **[MeshSat Hub](https://github.com/meshsat/meshsat-hub)** | Multi-tenant fleet management for a fleet of bridges. Currently a private beta with no public sign-up. |
 | **[meshsat-website](https://github.com/meshsat/meshsat-website)** | meshsat.net, the documentation site, and the install script. |
+| **[MeshSat Field Kit](https://github.com/meshsat/meshsat-fieldkit)** | The hardware. The two kits built so far (tesseract and parallax: Pi 5, UPS, five radios and a satellite modem in an IP67 case) with their build guide, and the V2 carrier PCB set for a Peli 1520 case: KiCad sources, the scripts that generate the boards, the case CAD, the Rev A release files. Rev A is designed and prepared for fabrication, not built yet. |
 
 MeshSat began inside the [CubeOS](https://github.com/cubeos-app) project and has outgrown it. The
 repositories moved here in August 2026; old `cubeos-app` links redirect.
@@ -54,5 +55,5 @@ A six month field programme starts in November 2026.
 
 ## License
 
-Everything here is free software under the **GPLv3**. Built in Leiden, the Netherlands, by Elli and
-Kyriakos.
+The software is free software under the **GPLv3**; the hardware repository is released under the
+**CERN-OHL-S-2.0**. Built in Leiden, the Netherlands, by Elli and Kyriakos.
