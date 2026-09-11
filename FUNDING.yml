@@ -1,3 +1,12 @@
 # Default funding links for every repository in the meshsat organisation.
-# Shown as the Sponsor button on repos that have Sponsorships enabled in Settings > Features.
-ko_fi: X2S326G23T
+# Shown as the Sponsor button on repos that have Sponsorships enabled in
+# Settings > Features.
+#
+# Donations are handled by MeshSat Hub itself and settle through Stripe. GitHub
+# has no Stripe provider, so this is a custom link: it points at the Hub's public
+# donate page, the same one the button on meshsat.net uses. That page creates the
+# Checkout session and hands off to Stripe.
+#
+# A donation buys no subscription tier and unlocks nothing -- it is a gift, not a
+# purchase -- and every one gets a receipt.
+custom: https://hub.meshsat.net/donate
